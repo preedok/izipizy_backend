@@ -66,7 +66,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone This Back End Repo
 ```
-git clone  https://github.com/Iqbalapredo/BE-RECIPE.git
+git clone  https://github.com/preedok/izipizy_backend
 ```
 - Go To Folder Repo
 ```
@@ -109,6 +109,9 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Endpoint List
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/23292228/2s93RUvsS7)
 
 
 ## Related Project
