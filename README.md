@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://github.com/preedok/izipizy_backend"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="">View Demo</a>
+    <a href="https://izipizybackend-production.up.railway.app">View Demo</a>
     ·
     <a href="">Report Bug</a>
     ·
